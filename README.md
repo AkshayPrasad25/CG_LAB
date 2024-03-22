@@ -15,4 +15,4 @@ Explore the directories for program codes. Execute programs using appropriate gr
 ## Contribution
 Any contributions are welcome and much appreciated! Submit pull requests for enhancements and additional solutions.
 
-## Have Fun!
+## Have fun!
